@@ -1,0 +1,8 @@
+c:\users\slipk\documents\visual studio 2015\Projects\JavaScriptSerializerExample\JavaScriptSerializerExample\bin\Debug\JavaScriptSerializerExample.exe
+c:\users\slipk\documents\visual studio 2015\Projects\JavaScriptSerializerExample\JavaScriptSerializerExample\bin\Debug\JavaScriptSerializerExample.pdb
+c:\users\slipk\documents\visual studio 2015\Projects\JavaScriptSerializerExample\JavaScriptSerializerExample\obj\Debug\JavaScriptSerializerExample.csprojResolveAssemblyReference.cache
+c:\users\slipk\documents\visual studio 2015\Projects\JavaScriptSerializerExample\JavaScriptSerializerExample\obj\Debug\JavaScriptSerializerExample.exe
+c:\users\slipk\documents\visual studio 2015\Projects\JavaScriptSerializerExample\JavaScriptSerializerExample\obj\Debug\JavaScriptSerializerExample.pdb
+C:\Users\slipk\Documents\Visual Studio 2015\Projects\JavaScriptSerializerExample\JavaScriptSerializerExample\bin\Debug\JavaScriptSerializerExample.exe.config
+C:\Users\slipk\Documents\Visual Studio 2015\Projects\JavaScriptSerializerExample\JavaScriptSerializerExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\slipk\Documents\Visual Studio 2015\Projects\JavaScriptSerializerExample\JavaScriptSerializerExample\bin\Debug\Newtonsoft.Json.xml

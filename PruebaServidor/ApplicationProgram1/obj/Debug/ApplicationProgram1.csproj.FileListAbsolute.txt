@@ -1,0 +1,7 @@
+c:\users\slipk\documents\visual studio 2015\Projects\ApplicationProgram1\ApplicationProgram1\bin\Debug\ApplicationProgram1.exe
+c:\users\slipk\documents\visual studio 2015\Projects\ApplicationProgram1\ApplicationProgram1\bin\Debug\ApplicationProgram1.pdb
+c:\users\slipk\documents\visual studio 2015\Projects\ApplicationProgram1\ApplicationProgram1\obj\Debug\ApplicationProgram1.csprojResolveAssemblyReference.cache
+c:\users\slipk\documents\visual studio 2015\Projects\ApplicationProgram1\ApplicationProgram1\obj\Debug\ApplicationProgram1.exe
+c:\users\slipk\documents\visual studio 2015\Projects\ApplicationProgram1\ApplicationProgram1\obj\Debug\ApplicationProgram1.pdb
+c:\users\slipk\documents\visual studio 2015\Projects\ApplicationProgram1\ApplicationProgram1\bin\Debug\Newtonsoft.Json.dll
+c:\users\slipk\documents\visual studio 2015\Projects\ApplicationProgram1\ApplicationProgram1\bin\Debug\Newtonsoft.Json.xml

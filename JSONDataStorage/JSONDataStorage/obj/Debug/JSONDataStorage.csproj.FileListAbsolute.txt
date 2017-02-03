@@ -1,0 +1,8 @@
+c:\users\slipk\documents\visual studio 2015\Projects\JSONDataStorage\JSONDataStorage\bin\Debug\JSONDataStorage.exe
+c:\users\slipk\documents\visual studio 2015\Projects\JSONDataStorage\JSONDataStorage\bin\Debug\JSONDataStorage.pdb
+c:\users\slipk\documents\visual studio 2015\Projects\JSONDataStorage\JSONDataStorage\bin\Debug\Newtonsoft.Json.dll
+c:\users\slipk\documents\visual studio 2015\Projects\JSONDataStorage\JSONDataStorage\bin\Debug\Newtonsoft.Json.xml
+c:\users\slipk\documents\visual studio 2015\Projects\JSONDataStorage\JSONDataStorage\obj\Debug\JSONDataStorage.csprojResolveAssemblyReference.cache
+c:\users\slipk\documents\visual studio 2015\Projects\JSONDataStorage\JSONDataStorage\obj\Debug\JSONDataStorage.exe
+c:\users\slipk\documents\visual studio 2015\Projects\JSONDataStorage\JSONDataStorage\obj\Debug\JSONDataStorage.pdb
+C:\Users\slipk\Documents\Visual Studio 2015\Projects\JSONDataStorage\JSONDataStorage\bin\Debug\JSONDataStorage.exe.config

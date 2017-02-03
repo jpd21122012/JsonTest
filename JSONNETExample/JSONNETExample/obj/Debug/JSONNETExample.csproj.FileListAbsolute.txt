@@ -1,0 +1,7 @@
+c:\users\slipk\documents\visual studio 2015\Projects\JSONNETExample\JSONNETExample\bin\Debug\JSONNETExample.exe
+c:\users\slipk\documents\visual studio 2015\Projects\JSONNETExample\JSONNETExample\bin\Debug\JSONNETExample.pdb
+c:\users\slipk\documents\visual studio 2015\Projects\JSONNETExample\JSONNETExample\bin\Debug\Newtonsoft.Json.dll
+c:\users\slipk\documents\visual studio 2015\Projects\JSONNETExample\JSONNETExample\bin\Debug\Newtonsoft.Json.xml
+c:\users\slipk\documents\visual studio 2015\Projects\JSONNETExample\JSONNETExample\obj\Debug\JSONNETExample.csprojResolveAssemblyReference.cache
+c:\users\slipk\documents\visual studio 2015\Projects\JSONNETExample\JSONNETExample\obj\Debug\JSONNETExample.exe
+c:\users\slipk\documents\visual studio 2015\Projects\JSONNETExample\JSONNETExample\obj\Debug\JSONNETExample.pdb
