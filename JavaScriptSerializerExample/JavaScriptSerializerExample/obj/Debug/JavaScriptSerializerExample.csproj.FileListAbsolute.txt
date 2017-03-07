@@ -6,3 +6,6 @@ c:\users\slipk\documents\visual studio 2015\Projects\JavaScriptSerializerExample
 C:\Users\slipk\Documents\Visual Studio 2015\Projects\JavaScriptSerializerExample\JavaScriptSerializerExample\bin\Debug\JavaScriptSerializerExample.exe.config
 C:\Users\slipk\Documents\Visual Studio 2015\Projects\JavaScriptSerializerExample\JavaScriptSerializerExample\bin\Debug\Newtonsoft.Json.dll
 C:\Users\slipk\Documents\Visual Studio 2015\Projects\JavaScriptSerializerExample\JavaScriptSerializerExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\slipk\Documents\GitHub\JsonTest\JavaScriptSerializerExample\JavaScriptSerializerExample\bin\Debug\JavaScriptSerializerExample.exe.config
+C:\Users\slipk\Documents\GitHub\JsonTest\JavaScriptSerializerExample\JavaScriptSerializerExample\obj\Debug\JavaScriptSerializerExample.exe
+C:\Users\slipk\Documents\GitHub\JsonTest\JavaScriptSerializerExample\JavaScriptSerializerExample\obj\Debug\JavaScriptSerializerExample.pdb

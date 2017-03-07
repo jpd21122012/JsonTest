@@ -5,3 +5,5 @@ c:\users\slipk\documents\visual studio 2015\Projects\ApplicationProgram1\Applica
 c:\users\slipk\documents\visual studio 2015\Projects\ApplicationProgram1\ApplicationProgram1\obj\Debug\ApplicationProgram1.pdb
 c:\users\slipk\documents\visual studio 2015\Projects\ApplicationProgram1\ApplicationProgram1\bin\Debug\Newtonsoft.Json.dll
 c:\users\slipk\documents\visual studio 2015\Projects\ApplicationProgram1\ApplicationProgram1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\slipk\Documents\GitHub\JsonTest\PruebaServidor\ApplicationProgram1\obj\Debug\ApplicationProgram1.exe
+C:\Users\slipk\Documents\GitHub\JsonTest\PruebaServidor\ApplicationProgram1\obj\Debug\ApplicationProgram1.pdb
